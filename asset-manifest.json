@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevanshuGupta.io/static/css/main.7e293ebe.css",
+    "main.js": "/DevanshuGupta.io/static/js/main.9e638562.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DevanshuGupta.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/DevanshuGupta.io/index.html",
+    "main.7e293ebe.css.map": "/DevanshuGupta.io/static/css/main.7e293ebe.css.map",
+    "main.9e638562.js.map": "/DevanshuGupta.io/static/js/main.9e638562.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DevanshuGupta.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e293ebe.css",
+    "static/js/main.9e638562.js"
+  ]
+}
